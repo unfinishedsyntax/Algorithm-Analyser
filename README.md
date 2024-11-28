@@ -1,14 +1,14 @@
 # Algorithm-Analyser
 This project specifically focusing on the performance of various sorting algorithms. It includes implementations of fundamental sorting techniques and a benchmarking system to measure their performance.
 ## Features
-##1. Sorting Algorithms:
+1. Sorting Algorithms:
 
 Bubble Sort
 Selection Sort
 Insertion Sort
 Merge Sort
 Quick Sort
-##2. Random Array Generation:
+2. Random Array Generation:
 
 Generates an array of random integers of configurable size and value range.
 Facilitates benchmarking on realistic data.
